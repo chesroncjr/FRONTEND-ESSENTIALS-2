@@ -30,15 +30,56 @@
 /* TIP: Laat bovenstaande code staan */
 
 /* dobbelsteen1 */
+.dobbelsteen1{
+        align-items: center;
+        justify-content: center;
+}
 
 /* dobbelsteen2 */
 
+.dobbelsteen2 .rechts .stip{
+        margin-top: 70px;
+        margin-left: 30px;
+  }
+.dobbelsteen2 .links{
+        display: flex;
+        align-items: right;
+        
+}
 /* dobbelsteen3 */
+.dobbelsteen3 .midden .stip{
+margin-top: 30px;
+}
+.dobbelsteen3 .rechts .stip{
+margin-top: 70px;
+}
 
 /* dobbelsteen4 */
+.dobbelsteen4 .links .stip {
+  margin-bottom: 45px;    
+}
+.dobbelsteen4 .rechts .stip{
+   margin-bottom: 45px;
+   margin-left: 15px;
+}
 
 /* dobbelsteen5 */
+.dobbelsteen5 .links .stip{
+   margin-bottom: 45px;
+}
+.dobbelsteen5 .rechts .stip{
+    margin-bottom: 45px;
+}
+.dobbelsteen5 .midden .stip{
+    margin-top: 38px;
 
+}
 /* dobbelsteen6 */
-
+.dobbelsteen6 .links .stip{
+margin-bottom: 8px;
+}
+.dobbelsteen6 .rechts .stip{
+margin-bottom: 8px;
+margin-left: 20px;
+}
 

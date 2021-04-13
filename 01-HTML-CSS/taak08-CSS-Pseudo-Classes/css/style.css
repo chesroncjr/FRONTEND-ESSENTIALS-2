@@ -8,6 +8,9 @@
 }
 
 .menu li a{
-    background-color: lightskyblue;
+    background-color: rgb(0, 102, 165);
     padding: 10px;
+}
+.menu li a:hover{
+    color: thistle;
 }

@@ -7,7 +7,23 @@
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-    
+    <p>Kilk op de knop om je zelf te regristreen.</p>
+
+<button onclick="myFunction()">Klik</button>
+
+<p id="demo"></p>
     <script src="js/script.js"></script>
+
+    <script>
+        alert
+        function myFunction() {
+          var person = prompt("Please enter your name");
+          if (person != null) {
+            document.getElementById("demo").innerHTML =
+            "Hello " + person + "! hoe gaat het vandaag?";
+          }
+        }
+        </script>
+        
 </body>
 </html>

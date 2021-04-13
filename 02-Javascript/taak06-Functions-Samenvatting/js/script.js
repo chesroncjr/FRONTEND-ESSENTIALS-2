@@ -11,4 +11,11 @@ function showRandomNumber1(){
     return randomGetal;
 }
 
+function geefantwoord10(){
+    
+
+
+
+}
+
 getal1 = showRandomNumber1();

@@ -8,6 +8,13 @@ function maakGroen(){
     document.querySelector("body").style.backgroundColor = "Green";
 }
 
+function maakBlauw(){
+    document.querySelector("body").style.backgroundColor = "blue";
+}
+
+function maakRood(){
+    document.querySelector("body").style.backgroundColor = "red";
+}
 //TODO: maak 2 functies genaamd maakBlauw en maakRood
 
 
